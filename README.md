@@ -141,9 +141,9 @@
 
     ```py
     default_args = {
-        "owner": "zkan",
+        "owner": "ford",
         "email": ["kan@dataengineercafe.io"],
-        "start_date": timezone.datetime(2022, 2, 1),
+        "start_date": timezone.datetime(2023, 2, 20),
         "retries": 3,
         "retry_delay": timedelta(minutes=3),
     }
